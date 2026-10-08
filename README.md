@@ -34,3 +34,4 @@ on a phone, change the lan ip in `frontend/app/updatedSearch.tsx` to your machin
 
 # attribution
 created by  Seth Chang, Dylan Nguyen, & Christopher Tran.
+see: https://goodnews.pylusd.org/?p=31280
