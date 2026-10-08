@@ -33,4 +33,4 @@ needs `EXPO_PUBLIC_GROQ_API_KEY` in `frontend/.env`.
 on a phone, change the lan ip in `frontend/app/updatedSearch.tsx` to your machine's.
 
 # attribution
-created by  Seth Chang, Dylan Nguyen, Christopher Tran, and Sajeh Anand Singh.
+created by  Seth Chang, Dylan Nguyen, & Christopher Tran.
