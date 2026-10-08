@@ -1,0 +1,51 @@
+.env
+node_modules/
+out.mp3# Byte‑compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+venv311/    # if your venv folder is named venv311
+.venv311/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*,cover
+
+# Type‐checker caches
+.mypy_cache/
+.dmypy.json
+
+# Django stuff (if ever used)
+*.log
+local_settings.py
+db.sqlite3
+
+# FastAPI / Uvicorn
+guni

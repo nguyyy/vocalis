@@ -1,0 +1,20 @@
+{
+  "name": "vocalis-middleware",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.51.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "node-fetch": "^2.6.7",
+    "undici": "^7.16.0",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "supabase": "^2.30.4"
+  }
+}
